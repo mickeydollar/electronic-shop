@@ -227,4 +227,50 @@
 
 .star i{
     color: #EF7F1B;
+
+}
+
+/* other cards */
+#other-cards .card{
+    background-color: rgb(179, 176, 176);
+}
+
+#other-cards .card h3{
+    margin-top: 30px;
+    color: black;
+    margin-left: 10px;
+    letter-spacing: 3px;
+    
+}
+
+#other-cards .card h5{
+    margin-top: 15px;
+    font-weight: 100;
+    font-size: 18px;
+    color: black;
+    margin-left: 10px;
+    letter-spacing: 3px;
+    border-bottom: 2px solid black;
+    width: 250px;
+}
+
+#other-cards .card p{
+    margin-top: 10px;
+    font-weight: 100;
+    font-size: 15px;
+    margin-left: 10px;
+    letter-spacing: 3px;
+}
+
+#shopnow{
+    width: 130px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    color: #ffff;
 }
